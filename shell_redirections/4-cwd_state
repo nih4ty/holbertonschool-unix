@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "total 28 drwxr-xr-x. 2 root root 4096 Nov  7 22:06 . drwxr-xr-x. 6 root root 4096 Nov  7 21:47 .. -rwxr-xr-x. 1 root root   28 Nov  7 21:49 0-hellofile -rwxr-xr-x. 1 root root   29 Nov  7 21:51 1-lastlines -rwxr-xr-x. 1 root root   29 Nov  7 21:52 2-firstlines -rwxr-xr-x. 1 root root   40 Nov  7 22:00 3-third_line -rwxr-xr-x. 1 root root   13 Nov  7 22:06 4-cwd_state" > ls_cwd_content
+ls -la > ls_cwd_content
